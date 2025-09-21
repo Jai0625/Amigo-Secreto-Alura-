@@ -1,10 +1,10 @@
-# 🎉 Juego del Amigo Secreto
+ Juego del Amigo Secreto
 
 Este proyecto es una aplicación sencilla en JavaScript que permite **agregar nombres de amigos** a una lista y realizar un **sorteo aleatorio** para elegir al "amigo secreto".  
 
 ---
 
-## 📌 Características
+Características
 - Agregar nombres a una lista de amigos.
 - Mostrar la lista de amigos agregados en pantalla.
 - Sortear aleatoriamente un amigo de la lista.
@@ -13,14 +13,7 @@ Este proyecto es una aplicación sencilla en JavaScript que permite **agregar no
 
 ---
 
-## 🛠️ Tecnologías utilizadas
-- **HTML5**
-- **CSS3** (opcional, para darle estilo)
-- **JavaScript (Vanilla JS)**
-
----
-
-## 🚀 Cómo usar
+Cómo usar
 1. Clona este repositorio o descarga los archivos.
    ```bash
    git clone https://github.com/TU_USUARIO/TU_REPO.git
